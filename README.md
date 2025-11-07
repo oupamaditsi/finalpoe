@@ -3,8 +3,15 @@
 This document outlines the complete plan and design for "TasteMapper," an Android 
 application designed to help users discover, review, and add restaurants using the 
 powerful Mapbox platform. It details functional requirements, UI/UX design, system 
-architecture, data models, and project scheduling to guide development. 
-2. App Overview 
+architecture, data models, and project scheduling to guide development.
+
+Google Play Console 
+I was unable to deploy my Android application to the Google Play Store because Google requires a one-time registration fee of $25 (approximately R470) to create a Google Play Developer account.
+Since the deployment process cannot proceed without this subscription payment, I could not publish the app on the Play Store at this stage. However, I have successfully built the signed APK/AAB and can demonstrate the app running on an Android device through manual installation (sideloading)
+<img width="975" height="473" alt="image" src="https://github.com/user-attachments/assets/444d6d01-5341-4c42-8575-be0df1f03fde" />
+
+
+3. App Overview 
 • Name: TasteMapper 
 • Icon:  
  
